@@ -17,8 +17,8 @@ class Profile extends Model
         );
         
         // 以下を追記
-        // News Modelに関連付けを行う
-        public function histories()
+        // Profile Modelに関連付けを行う
+        public function profile_histories()
         {
             return $this->hasMany('App\History');
         }

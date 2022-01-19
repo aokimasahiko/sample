@@ -56,7 +56,7 @@
                             @endif
                         </ul>
                     </div>
-                </div>v>
+                </div>
             </div>
         </div>
     </div>
